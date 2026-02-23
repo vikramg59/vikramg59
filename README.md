@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vikram Guduru</h1>
-<h3 align="center">🚀 Web Developer | MERN | Cloud | Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Vikram Guduru</h1>
+<h3 align="left">🚀 Web Developer | MERN | Cloud | Full Stack Developer</h3>
 
-<p align="center">
+<p align="left">
 🎯 Passionate about building scalable applications with cinematic user experiences
 </p>
 
