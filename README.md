@@ -5,7 +5,7 @@
 🎯 Passionate about building scalable applications with cinematic user experiences
 </p>
 
----
+
 
 <h3>👨‍💻 About Me</h3>
 
@@ -19,8 +19,7 @@
     vikramguduru2737@gmail.com
   </a>
   <li>🌐 Portfolio: <a href="https://vikram-portfolio81.vercel.app" target="_blank">vikram-portfolio81.vercel.app</a></li>
-  <li>⚡ Fun fact: I love blending technology with creativity — hackathons are my playground.</li>
+  <li>⚡ Fun fact: What we know is a drop. What we don’t know is an ocean.</li>
 </ul>
 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0dece97d-95d2-45fc-a6a9-1fd9d5107244" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" height="450" />
